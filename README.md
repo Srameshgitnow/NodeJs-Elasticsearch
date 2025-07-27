@@ -29,7 +29,7 @@ This project demonstrates how to use [Elasticsearch](https://www.elastic.co/) wi
 1. **Clone the repository**
 
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/Srameshgitnow/NodeJs-Elasticsearch.git
    cd <your-project-directory>
    ```
 
